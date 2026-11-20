@@ -1,0 +1,6 @@
+{
+  "name": "Ain Shohoj (আইন সহজ)",
+  "description": "Bangla-first legal information platform for Bangladesh — আইন হোক সহজ, ন্যায় হোক কাছে।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
